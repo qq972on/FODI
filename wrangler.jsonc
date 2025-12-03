@@ -15,7 +15,7 @@
     {
       "binding": "FODI_CACHE",
       // "preview_id": "", // for development
-      "id": "" // <~ https://dash.cloudflare.com/?to=/:account/workers/kv/namespaces
+      "id": "49b49763bbd349d68fa2e5e0220fee22" // <~ https://dash.cloudflare.com/?to=/:account/workers/kv/namespaces
     }
   ],
   "vars": {
