@@ -2,7 +2,7 @@
   "name": "fodi",
   "main": "back-end-cf/index.ts",
   "compatibility_date": "2025-04-10",
-  "preview_urls": false,
+  "preview_urls": true,
   "assets": {
     "directory": "./front-end/",
     "binding": "ASSETS",
